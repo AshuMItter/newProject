@@ -168,3 +168,4 @@ const idInvalidCardCompanies = (invalidCards) => {
  {
    console.log("Sample three");
  }
+{}
