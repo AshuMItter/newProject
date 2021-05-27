@@ -160,3 +160,7 @@ const idInvalidCardCompanies = (invalidCards) => {
  {
    cobsole.log("abc");
  }
+ fucntion sampleFunc()
+ {
+   console.log("Sample Function");
+ }
