@@ -164,3 +164,7 @@ const idInvalidCardCompanies = (invalidCards) => {
  {
    console.log("Sample Function");
  }
+ fucntion sampleFunc2()
+ {
+   console.log("Sample three");
+ }
