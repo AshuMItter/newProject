@@ -179,3 +179,7 @@ const idInvalidCardCompanies = (invalidCards) => {
   console.log("Pqr");
 }
 >>>>>>> bd2658489ff7871410cc0f5601b83d4f71c109a8
+function AforApple()
+{
+  console.log("Pull");
+}
