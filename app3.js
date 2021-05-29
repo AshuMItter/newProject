@@ -183,3 +183,7 @@ function AforApple()
 {
   console.log("Pull");
 }
+fucntion Test()
+{
+  console.log("Testing");
+}
